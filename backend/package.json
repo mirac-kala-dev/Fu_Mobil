@@ -1,0 +1,17 @@
+{
+  "name": "fukampus-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "*",
+    "dotenv": "^17.4.2",
+    "express": "*",
+    "jsonwebtoken": "^9.0.3",
+    "mysql2": "*"
+  }
+}
